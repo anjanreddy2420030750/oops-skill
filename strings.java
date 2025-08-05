@@ -6,7 +6,7 @@ public class strings {
 		String s2="Anjan Reddy";
 		System.out.println(s1==s2);
 		
-		s1=s1+"varma";
+		s1=s1+"Reddy";
 		System.out.println(s1==s2);
 		
 		String s3="Anjan Reddy";
@@ -15,4 +15,5 @@ public class strings {
 		System.out.println(s1==s3);
 		
 }
+
 }
